@@ -1,0 +1,5 @@
+com/aravind/product/dto/Product.class
+com/aravind/product/bo/ProductBOimpl.class
+com/aravind/product/bo/ProductBO.class
+com/aravind/product/dao/ProductDAO.class
+com/aravind/product/dao/ProductDAOimpl.class
